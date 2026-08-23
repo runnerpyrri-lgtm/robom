@@ -50,16 +50,16 @@ apps:
     support_url: https://robom.kr/support
     android_app_id: kr.robom.homebom
     ios_bundle_id: kr.robom.homebom
-    google_play_url: ""
-    google_play_status: internal
+    google_play_url: https://play.google.com/store/apps/details?id=kr.robom.homebom
+    google_play_status: live
     app_store_url: ""
     app_store_status: planned
     pwa_install_url: https://robom-labs.github.io/homebom/
     stable_install_url: https://robom.kr/get/homebom
-    mobile_status: native-closed-test-review
+    mobile_status: native-production-live
     family_spec_version: 1.1.0
-    last_verified_at: "2026-08-08T22:34:00+09:00"
-    last_deployed_sha: 04884ce4ed3d11bdc05b579a383eadbf8d5eff85
+    last_verified_at: "2026-08-23T16:09:40+09:00"
+    last_deployed_sha: 599180c6d51fda5086a23d6845c02c8b8353fc15
     last_data_sync_at: "2026-08-08T21:05:02+09:00"
     freshness_status: runtime
     freshness_slo_hours: 48

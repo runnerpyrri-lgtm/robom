@@ -17,7 +17,7 @@ apps:
     build: pass
     visual: pass
     analytics: pass
-    deployed_sha: 04884ce4ed3d11bdc05b579a383eadbf8d5eff85
+    deployed_sha: 599180c6d51fda5086a23d6845c02c8b8353fc15
   runningbom:
     family_spec: 1.1.0
     generated_commit: 75d4f9d4c803e1dbaa6dda67e48b6ed23960520f
